@@ -45,7 +45,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,data from destatis,bw,code08,6.98
 2013,percentage (%),a) time series,data from destatis,bw,code08,7.81
 2016,percentage (%),a) time series,data from destatis,bw,code08,9.31
-2020,percentage (%),a) time series,data from destatis,bw,code08,12.22
+2020,percentage (%),a) time series,data from destatis,bw,code08,12.33
 1999,percentage (%),a) time series,data from destatis,by,code09,2.20
 2001,percentage (%),a) time series,data from destatis,by,code09,2.80
 2003,percentage (%),a) time series,data from destatis,by,code09,3.90
@@ -54,11 +54,11 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,data from destatis,by,code09,6.08
 2013,percentage (%),a) time series,data from destatis,by,code09,6.82
 2016,percentage (%),a) time series,data from destatis,by,code09,8.26
-2020,percentage (%),a) time series,data from destatis,by,code09,12.18
+2020,percentage (%),a) time series,data from destatis,by,code09,12.06
 2010,percentage (%),a) time series,data from destatis,be,code11,12.42
 2013,percentage (%),a) time series,data from destatis,be,code11,15.00
 2016,percentage (%),a) time series,data from destatis,be,code11,15.61
-2020,percentage (%),a) time series,data from destatis,be,code11,21.42
+2020,percentage (%),a) time series,data from destatis,be,code11,15.83
 1999,percentage (%),a) time series,data from destatis,bb,code12,5.40
 2001,percentage (%),a) time series,data from destatis,bb,code12,7.10
 2003,percentage (%),a) time series,data from destatis,bb,code12,8.70
@@ -67,15 +67,15 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,data from destatis,bb,code12,10.60
 2013,percentage (%),a) time series,data from destatis,bb,code12,10.33
 2016,percentage (%),a) time series,data from destatis,bb,code12,10.42
-2020,percentage (%),a) time series,data from destatis,bb,code12,13.42
+2020,percentage (%),a) time series,data from destatis,bb,code12,13.28
 2010,percentage (%),a) time series,data from destatis,hb,code04,9.84
 2013,percentage (%),a) time series,data from destatis,hb,code04,11.76
 2016,percentage (%),a) time series,data from destatis,hb,code04,17.67
-2020,percentage (%),a) time series,data from destatis,hb,code04,12.21
+2020,percentage (%),a) time series,data from destatis,hb,code04,22.71
 2010,percentage (%),a) time series,data from destatis,hh,code02,6.82
 2013,percentage (%),a) time series,data from destatis,hh,code02,6.94
 2016,percentage (%),a) time series,data from destatis,hh,code02,8.12
-2020,percentage (%),a) time series,data from destatis,hh,code02,7.92
+2020,percentage (%),a) time series,data from destatis,hh,code02,8.60
 1999,percentage (%),a) time series,data from destatis,he,code06,5.60
 2001,percentage (%),a) time series,data from destatis,he,code06,6.80
 2003,percentage (%),a) time series,data from destatis,he,code06,7.00
@@ -84,7 +84,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,data from destatis,he,code06,9.40
 2013,percentage (%),a) time series,data from destatis,he,code06,10.52
 2016,percentage (%),a) time series,data from destatis,he,code06,11.59
-2020,percentage (%),a) time series,data from destatis,he,code06,14.98
+2020,percentage (%),a) time series,data from destatis,he,code06,14.99
 1999,percentage (%),a) time series,data from destatis,mv,code13,6.90
 2001,percentage (%),a) time series,data from destatis,mv,code13,7.20
 2003,percentage (%),a) time series,data from destatis,mv,code13,8.10
@@ -93,7 +93,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,data from destatis,mv,code13,8.68
 2013,percentage (%),a) time series,data from destatis,mv,code13,8.97
 2016,percentage (%),a) time series,data from destatis,mv,code13,9.37
-2020,percentage (%),a) time series,data from destatis,mv,code13,12.21
+2020,percentage (%),a) time series,data from destatis,mv,code13,12.23
 1999,percentage (%),a) time series,data from destatis,ni,code03,1.00
 2001,percentage (%),a) time series,data from destatis,ni,code03,1.40
 2003,percentage (%),a) time series,data from destatis,ni,code03,2.10
@@ -102,7 +102,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,data from destatis,ni,code03,2.89
 2013,percentage (%),a) time series,data from destatis,ni,code03,2.85
 2016,percentage (%),a) time series,data from destatis,ni,code03,3.21
-2020,percentage (%),a) time series,data from destatis,ni,code03,4.77
+2020,percentage (%),a) time series,data from destatis,ni,code03,4.75
 1999,percentage (%),a) time series,data from destatis,nw,code05,1.00
 2001,percentage (%),a) time series,data from destatis,nw,code05,1.50
 2003,percentage (%),a) time series,data from destatis,nw,code05,2.50
@@ -111,7 +111,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,data from destatis,nw,code05,3.64
 2013,percentage (%),a) time series,data from destatis,nw,code05,4.19
 2016,percentage (%),a) time series,data from destatis,nw,code05,4.22
-2020,percentage (%),a) time series,data from destatis,nw,code05,5.58
+2020,percentage (%),a) time series,data from destatis,nw,code05,5.70
 1999,percentage (%),a) time series,data from destatis,rp,code07,1.60
 2001,percentage (%),a) time series,data from destatis,rp,code07,2.20
 2003,percentage (%),a) time series,data from destatis,rp,code07,2.40
@@ -120,7 +120,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,data from destatis,rp,code07,5.10
 2013,percentage (%),a) time series,data from destatis,rp,code07,6.41
 2016,percentage (%),a) time series,data from destatis,rp,code07,8.73
-2020,percentage (%),a) time series,data from destatis,rp,code07,11.15
+2020,percentage (%),a) time series,data from destatis,rp,code07,11.31
 1999,percentage (%),a) time series,data from destatis,sl,code10,6.30
 2001,percentage (%),a) time series,data from destatis,sl,code10,5.40
 2003,percentage (%),a) time series,data from destatis,sl,code10,6.70
@@ -129,7 +129,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,data from destatis,sl,code10,10.57
 2013,percentage (%),a) time series,data from destatis,sl,code10,11.42
 2016,percentage (%),a) time series,data from destatis,sl,code10,14.89
-2020,percentage (%),a) time series,data from destatis,sl,code10,18.20
+2020,percentage (%),a) time series,data from destatis,sl,code10,18.04
 1999,percentage (%),a) time series,data from destatis,sn,code14,1.50
 2001,percentage (%),a) time series,data from destatis,sn,code14,2.60
 2003,percentage (%),a) time series,data from destatis,sn,code14,3.40
@@ -138,7 +138,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,data from destatis,sn,code14,3.68
 2013,percentage (%),a) time series,data from destatis,sn,code14,3.79
 2016,percentage (%),a) time series,data from destatis,sn,code14,4.59
-2020,percentage (%),a) time series,data from destatis,sn,code14,7.92
+2020,percentage (%),a) time series,data from destatis,sn,code14,7.89
 1999,percentage (%),a) time series,data from destatis,st,code15,2.00
 2001,percentage (%),a) time series,data from destatis,st,code15,2.60
 2003,percentage (%),a) time series,data from destatis,st,code15,3.20
@@ -147,7 +147,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,data from destatis,st,code15,4.23
 2013,percentage (%),a) time series,data from destatis,st,code15,4.54
 2016,percentage (%),a) time series,data from destatis,st,code15,4.97
-2020,percentage (%),a) time series,data from destatis,st,code15,9.03
+2020,percentage (%),a) time series,data from destatis,st,code15,9.02
 1999,percentage (%),a) time series,data from destatis,sh,code01,1.50
 2001,percentage (%),a) time series,data from destatis,sh,code01,1.90
 2003,percentage (%),a) time series,data from destatis,sh,code01,2.20
@@ -156,7 +156,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,data from destatis,sh,code01,3.32
 2013,percentage (%),a) time series,data from destatis,sh,code01,3.40
 2016,percentage (%),a) time series,data from destatis,sh,code01,4.04
-2020,percentage (%),a) time series,data from destatis,sh,code01,6.35
+2020,percentage (%),a) time series,data from destatis,sh,code01,6.38
 1999,percentage (%),a) time series,data from destatis,th,code16,1.90
 2001,percentage (%),a) time series,data from destatis,th,code16,2.10
 2003,percentage (%),a) time series,data from destatis,th,code16,3.00
