@@ -1,29 +1,29 @@
 Year,Units,title,sex,Bundesland,GeoCode,Value
-1996,percentage (%),foreign school graduates,,,,80.4
-1997,percentage (%),foreign school graduates,,,,80.6
-1998,percentage (%),foreign school graduates,,,,80.5
-1999,percentage (%),foreign school graduates,,,,80.7
-2000,percentage (%),foreign school graduates,,,,80.1
-2001,percentage (%),foreign school graduates,,,,79.8
-2002,percentage (%),foreign school graduates,,,,80.6
-2003,percentage (%),foreign school graduates,,,,80.9
-2004,percentage (%),foreign school graduates,,,,81.9
-2005,percentage (%),foreign school graduates,,,,82.6
-2006,percentage (%),foreign school graduates,,,,83.2
-2007,percentage (%),foreign school graduates,,,,84.0
-2008,percentage (%),foreign school graduates,,,,85.0
-2009,percentage (%),foreign school graduates,,,,86.2
-2010,percentage (%),foreign school graduates,,,,87.2
-2011,percentage (%),foreign school graduates,,,,88.2
-2012,percentage (%),foreign school graduates,,,,88.6
-2013,percentage (%),foreign school graduates,,,,89.3
-2014,percentage (%),foreign school graduates,,,,88.1
-2015,percentage (%),foreign school graduates,,,,88.2
-2016,percentage (%),foreign school graduates,,,,85.8
-2017,percentage (%),foreign school graduates,,,,81.8
-2018,percentage (%),foreign school graduates,,,,81.8
-2019,percentage (%),foreign school graduates,,,,82.4
-2020,percentage (%),foreign school graduates,,,,85.3
+1996,percentage (%),foreign school graduates,a) total,,,80.4
+1997,percentage (%),foreign school graduates,a) total,,,80.6
+1998,percentage (%),foreign school graduates,a) total,,,80.5
+1999,percentage (%),foreign school graduates,a) total,,,80.7
+2000,percentage (%),foreign school graduates,a) total,,,80.1
+2001,percentage (%),foreign school graduates,a) total,,,79.8
+2002,percentage (%),foreign school graduates,a) total,,,80.6
+2003,percentage (%),foreign school graduates,a) total,,,80.9
+2004,percentage (%),foreign school graduates,a) total,,,81.9
+2005,percentage (%),foreign school graduates,a) total,,,82.6
+2006,percentage (%),foreign school graduates,a) total,,,83.2
+2007,percentage (%),foreign school graduates,a) total,,,84.0
+2008,percentage (%),foreign school graduates,a) total,,,85.0
+2009,percentage (%),foreign school graduates,a) total,,,86.2
+2010,percentage (%),foreign school graduates,a) total,,,87.2
+2011,percentage (%),foreign school graduates,a) total,,,88.2
+2012,percentage (%),foreign school graduates,a) total,,,88.6
+2013,percentage (%),foreign school graduates,a) total,,,89.3
+2014,percentage (%),foreign school graduates,a) total,,,88.1
+2015,percentage (%),foreign school graduates,a) total,,,88.2
+2016,percentage (%),foreign school graduates,a) total,,,85.8
+2017,percentage (%),foreign school graduates,a) total,,,81.8
+2018,percentage (%),foreign school graduates,a) total,,,81.8
+2019,percentage (%),foreign school graduates,a) total,,,82.4
+2020,percentage (%),foreign school graduates,a) total,,,85.3
 2002,percentage (%),foreign school graduates,female,,,84.4
 2003,percentage (%),foreign school graduates,female,,,84.6
 2004,percentage (%),foreign school graduates,female,,,85.8
@@ -62,31 +62,31 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2018,percentage (%),foreign school graduates,male,,,78.8
 2019,percentage (%),foreign school graduates,male,,,79.5
 2020,percentage (%),foreign school graduates,male,,,83.0
-1996,percentage (%),german school graduates (share of all german leavers),,,,92.3
-1997,percentage (%),german school graduates (share of all german leavers),,,,92.3
-1998,percentage (%),german school graduates (share of all german leavers),,,,92.1
-1999,percentage (%),german school graduates (share of all german leavers),,,,92.0
-2000,percentage (%),german school graduates (share of all german leavers),,,,91.7
-2001,percentage (%),german school graduates (share of all german leavers),,,,91.3
-2002,percentage (%),german school graduates (share of all german leavers),,,,91.8
-2003,percentage (%),german school graduates (share of all german leavers),,,,92.1
-2004,percentage (%),german school graduates (share of all german leavers),,,,92.6
-2005,percentage (%),german school graduates (share of all german leavers),,,,92.8
-2006,percentage (%),german school graduates (share of all german leavers),,,,93.0
-2007,percentage (%),german school graduates (share of all german leavers),,,,93.6
-2008,percentage (%),german school graduates (share of all german leavers),,,,93.8
-2009,percentage (%),german school graduates (share of all german leavers),,,,94.2
-2010,percentage (%),german school graduates (share of all german leavers),,,,94.6
-2011,percentage (%),german school graduates (share of all german leavers),,,,95.0
-2012,percentage (%),german school graduates (share of all german leavers),,,,95.1
-2013,percentage (%),german school graduates (share of all german leavers),,,,95.4
-2014,percentage (%),german school graduates (share of all german leavers),,,,95.1
-2015,percentage (%),german school graduates (share of all german leavers),,,,95.0
-2016,percentage (%),german school graduates (share of all german leavers),,,,95.1
-2017,percentage (%),german school graduates (share of all german leavers),,,,94.8
-2018,percentage (%),german school graduates (share of all german leavers),,,,94.6
-2019,percentage (%),german school graduates (share of all german leavers),,,,94.5
-2020,percentage (%),german school graduates (share of all german leavers),,,,94.9
+1996,percentage (%),german school graduates (share of all german leavers),a) total,,,92.3
+1997,percentage (%),german school graduates (share of all german leavers),a) total,,,92.3
+1998,percentage (%),german school graduates (share of all german leavers),a) total,,,92.1
+1999,percentage (%),german school graduates (share of all german leavers),a) total,,,92.0
+2000,percentage (%),german school graduates (share of all german leavers),a) total,,,91.7
+2001,percentage (%),german school graduates (share of all german leavers),a) total,,,91.3
+2002,percentage (%),german school graduates (share of all german leavers),a) total,,,91.8
+2003,percentage (%),german school graduates (share of all german leavers),a) total,,,92.1
+2004,percentage (%),german school graduates (share of all german leavers),a) total,,,92.6
+2005,percentage (%),german school graduates (share of all german leavers),a) total,,,92.8
+2006,percentage (%),german school graduates (share of all german leavers),a) total,,,93.0
+2007,percentage (%),german school graduates (share of all german leavers),a) total,,,93.6
+2008,percentage (%),german school graduates (share of all german leavers),a) total,,,93.8
+2009,percentage (%),german school graduates (share of all german leavers),a) total,,,94.2
+2010,percentage (%),german school graduates (share of all german leavers),a) total,,,94.6
+2011,percentage (%),german school graduates (share of all german leavers),a) total,,,95.0
+2012,percentage (%),german school graduates (share of all german leavers),a) total,,,95.1
+2013,percentage (%),german school graduates (share of all german leavers),a) total,,,95.4
+2014,percentage (%),german school graduates (share of all german leavers),a) total,,,95.1
+2015,percentage (%),german school graduates (share of all german leavers),a) total,,,95.0
+2016,percentage (%),german school graduates (share of all german leavers),a) total,,,95.1
+2017,percentage (%),german school graduates (share of all german leavers),a) total,,,94.8
+2018,percentage (%),german school graduates (share of all german leavers),a) total,,,94.6
+2019,percentage (%),german school graduates (share of all german leavers),a) total,,,94.5
+2020,percentage (%),german school graduates (share of all german leavers),a) total,,,94.9
 1996,percentage (%),foreign school graduates,a) total,bw,code08,80.0
 1997,percentage (%),foreign school graduates,a) total,bw,code08,80.3
 1998,percentage (%),foreign school graduates,a) total,bw,code08,81.2
