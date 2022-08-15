@@ -30,6 +30,22 @@ Year,Units,display,title,Value
 2019,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),1.4712
 2020,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),-4.3131
 2021,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),-3.7096
+1991,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+1992,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+1993,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+1994,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+1995,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+1996,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+1997,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+1998,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+1999,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+2000,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+2001,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+2002,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+2003,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+2004,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+2005,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
+2006,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
 2007,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
 2008,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
 2009,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0000
@@ -64,6 +80,11 @@ Year,Units,display,title,Value
 2019,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),0.8000
 2020,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-2.0000
 2021,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-2.1000
+2005,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),-0.5000
+2006,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),-0.5000
+2007,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),-0.5000
+2008,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),-0.5000
+2009,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),-0.5000
 2010,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),-0.5000
 2011,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),-0.5000
 2012,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),-0.5000
