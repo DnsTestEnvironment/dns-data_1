@@ -14,6 +14,7 @@ Year,Units,display,Value
 2018,number,a) time series,36.00
 2019,number,a) time series,31.00
 2020,number,a) time series,38.00
+2021,number,a) time series,38.00
 2006,number,b) target (min),15.00
 2007,number,b) target (min),15.00
 2008,number,b) target (min),15.00
@@ -29,3 +30,4 @@ Year,Units,display,Value
 2018,number,b) target (min),15.00
 2019,number,b) target (min),15.00
 2020,number,b) target (min),15.00
+2021,number,b) target (min),15.00

@@ -1,132 +1,81 @@
 Year,Units,title,sex,area,Value
-2010,percentage (%),a) materially deprived persons,,eu,17.80
-2011,percentage (%),a) materially deprived persons,,eu,18.50
-2012,percentage (%),a) materially deprived persons,,eu,19.80
-2013,percentage (%),a) materially deprived persons,,eu,19.50
-2014,percentage (%),a) materially deprived persons,,eu,19.70
-2015,percentage (%),a) materially deprived persons,,eu,17.50
-2016,percentage (%),a) materially deprived persons,,eu,16.00
-2017,percentage (%),a) materially deprived persons,,eu,14.00
-2018,percentage (%),a) materially deprived persons,,eu,13.10
-2019,percentage (%),a) materially deprived persons,,eu,12.40
-2020,percentage (%),a) materially deprived persons,,eu,12.60
-2010,percentage (%),a) materially deprived persons,female,eu,18.40
-2011,percentage (%),a) materially deprived persons,female,eu,19.10
-2012,percentage (%),a) materially deprived persons,female,eu,20.30
-2013,percentage (%),a) materially deprived persons,female,eu,20.10
-2014,percentage (%),a) materially deprived persons,female,eu,20.50
-2015,percentage (%),a) materially deprived persons,female,eu,18.30
-2016,percentage (%),a) materially deprived persons,female,eu,16.90
-2017,percentage (%),a) materially deprived persons,female,eu,14.90
-2018,percentage (%),a) materially deprived persons,female,eu,13.90
-2019,percentage (%),a) materially deprived persons,female,eu,13.20
-2020,percentage (%),a) materially deprived persons,female,eu,13.30
-2010,percentage (%),a) materially deprived persons,male,eu,17.20
-2011,percentage (%),a) materially deprived persons,male,eu,17.80
-2012,percentage (%),a) materially deprived persons,male,eu,19.10
-2013,percentage (%),a) materially deprived persons,male,eu,18.90
-2014,percentage (%),a) materially deprived persons,male,eu,18.80
-2015,percentage (%),a) materially deprived persons,male,eu,16.50
-2016,percentage (%),a) materially deprived persons,male,eu,15.10
-2017,percentage (%),a) materially deprived persons,male,eu,13.20
-2018,percentage (%),a) materially deprived persons,male,eu,12.10
-2019,percentage (%),a) materially deprived persons,male,eu,11.50
-2020,percentage (%),a) materially deprived persons,male,eu,12.00
-2010,percentage (%),a) materially deprived persons,,germany,11.10
-2011,percentage (%),a) materially deprived persons,,germany,12.40
-2012,percentage (%),a) materially deprived persons,,germany,11.30
-2013,percentage (%),a) materially deprived persons,,germany,11.60
-2014,percentage (%),a) materially deprived persons,,germany,12.30
-2015,percentage (%),a) materially deprived persons,,germany,11.20
-2016,percentage (%),a) materially deprived persons,,germany,9.60
-2017,percentage (%),a) materially deprived persons,,germany,8.30
-2018,percentage (%),a) materially deprived persons,,germany,7.60
-2019,percentage (%),a) materially deprived persons,,germany,6.80
-2020,percentage (%),a) materially deprived persons,,germany,9.10
-2021,percentage (%),a) materially deprived persons,,germany,8.80
-2010,percentage (%),a) materially deprived persons,female,germany,11.50
-2011,percentage (%),a) materially deprived persons,female,germany,13.30
-2012,percentage (%),a) materially deprived persons,female,germany,12.20
-2013,percentage (%),a) materially deprived persons,female,germany,12.50
-2014,percentage (%),a) materially deprived persons,female,germany,13.30
-2015,percentage (%),a) materially deprived persons,female,germany,12.20
-2016,percentage (%),a) materially deprived persons,female,germany,10.50
-2017,percentage (%),a) materially deprived persons,female,germany,9.00
-2018,percentage (%),a) materially deprived persons,female,germany,8.20
-2019,percentage (%),a) materially deprived persons,female,germany,7.20
-2020,percentage (%),a) materially deprived persons,female,germany,9.30
-2021,percentage (%),a) materially deprived persons,female,germany,8.80
-2010,percentage (%),a) materially deprived persons,male,germany,10.60
-2011,percentage (%),a) materially deprived persons,male,germany,11.50
-2012,percentage (%),a) materially deprived persons,male,germany,10.50
-2013,percentage (%),a) materially deprived persons,male,germany,10.70
-2014,percentage (%),a) materially deprived persons,male,germany,11.30
-2015,percentage (%),a) materially deprived persons,male,germany,10.20
-2016,percentage (%),a) materially deprived persons,male,germany,8.60
-2017,percentage (%),a) materially deprived persons,male,germany,7.60
-2018,percentage (%),a) materially deprived persons,male,germany,7.00
-2019,percentage (%),a) materially deprived persons,male,germany,6.40
-2020,percentage (%),a) materially deprived persons,male,germany,8.90
-2021,percentage (%),a) materially deprived persons,male,germany,8.80
-2010,percentage (%),b) severely materially deprived persons,,eu,8.40
-2011,percentage (%),b) severely materially deprived persons,,eu,8.80
-2012,percentage (%),b) severely materially deprived persons,,eu,9.90
-2013,percentage (%),b) severely materially deprived persons,,eu,9.60
-2014,percentage (%),b) severely materially deprived persons,,eu,8.90
-2015,percentage (%),b) severely materially deprived persons,,eu,8.10
-2016,percentage (%),b) severely materially deprived persons,,eu,7.50
-2017,percentage (%),b) severely materially deprived persons,,eu,6.60
-2018,percentage (%),b) severely materially deprived persons,,eu,5.90
-2019,percentage (%),b) severely materially deprived persons,,eu,5.30
-2020,percentage (%),b) severely materially deprived persons,,eu,5.90
-2011,percentage (%),b) severely materially deprived persons,female,eu,9.10
-2012,percentage (%),b) severely materially deprived persons,female,eu,10.20
-2013,percentage (%),b) severely materially deprived persons,female,eu,9.80
-2014,percentage (%),b) severely materially deprived persons,female,eu,9.00
-2015,percentage (%),b) severely materially deprived persons,female,eu,8.20
-2016,percentage (%),b) severely materially deprived persons,female,eu,7.70
-2017,percentage (%),b) severely materially deprived persons,female,eu,6.80
-2018,percentage (%),b) severely materially deprived persons,female,eu,6.10
-2019,percentage (%),b) severely materially deprived persons,female,eu,5.60
-2020,percentage (%),b) severely materially deprived persons,female,eu,5.90
-2011,percentage (%),b) severely materially deprived persons,male,eu,8.60
-2012,percentage (%),b) severely materially deprived persons,male,eu,9.70
-2013,percentage (%),b) severely materially deprived persons,male,eu,9.40
-2014,percentage (%),b) severely materially deprived persons,male,eu,8.80
-2015,percentage (%),b) severely materially deprived persons,male,eu,8.00
-2016,percentage (%),b) severely materially deprived persons,male,eu,7.30
-2017,percentage (%),b) severely materially deprived persons,male,eu,6.40
-2018,percentage (%),b) severely materially deprived persons,male,eu,5.70
-2019,percentage (%),b) severely materially deprived persons,male,eu,5.10
-2020,percentage (%),b) severely materially deprived persons,male,eu,5.80
-2010,percentage (%),b) severely materially deprived persons,,germany,4.50
-2011,percentage (%),b) severely materially deprived persons,,germany,5.30
-2012,percentage (%),b) severely materially deprived persons,,germany,4.90
-2013,percentage (%),b) severely materially deprived persons,,germany,5.40
-2014,percentage (%),b) severely materially deprived persons,,germany,5.00
-2015,percentage (%),b) severely materially deprived persons,,germany,4.40
-2016,percentage (%),b) severely materially deprived persons,,germany,3.70
-2017,percentage (%),b) severely materially deprived persons,,germany,3.40
-2018,percentage (%),b) severely materially deprived persons,,germany,3.10
-2019,percentage (%),b) severely materially deprived persons,,germany,2.60
-2020,percentage (%),b) severely materially deprived persons,,germany,5.60
-2011,percentage (%),b) severely materially deprived persons,female,germany,5.70
-2012,percentage (%),b) severely materially deprived persons,female,germany,5.20
-2013,percentage (%),b) severely materially deprived persons,female,germany,5.60
-2014,percentage (%),b) severely materially deprived persons,female,germany,5.10
-2015,percentage (%),b) severely materially deprived persons,female,germany,4.60
-2016,percentage (%),b) severely materially deprived persons,female,germany,4.00
-2017,percentage (%),b) severely materially deprived persons,female,germany,3.90
-2018,percentage (%),b) severely materially deprived persons,female,germany,3.20
-2019,percentage (%),b) severely materially deprived persons,female,germany,2.80
-2020,percentage (%),b) severely materially deprived persons,female,germany,5.40
-2011,percentage (%),b) severely materially deprived persons,male,germany,5.00
-2012,percentage (%),b) severely materially deprived persons,male,germany,4.50
-2013,percentage (%),b) severely materially deprived persons,male,germany,5.20
-2014,percentage (%),b) severely materially deprived persons,male,germany,4.80
-2015,percentage (%),b) severely materially deprived persons,male,germany,4.20
-2016,percentage (%),b) severely materially deprived persons,male,germany,3.40
-2017,percentage (%),b) severely materially deprived persons,male,germany,2.90
-2018,percentage (%),b) severely materially deprived persons,male,germany,3.00
-2019,percentage (%),b) severely materially deprived persons,male,germany,2.40
-2020,percentage (%),b) severely materially deprived persons,male,germany,5.80
+2010,percentage (%),a) materially deprived persons,,eu,17.8
+2011,percentage (%),a) materially deprived persons,,eu,18.5
+2012,percentage (%),a) materially deprived persons,,eu,19.8
+2013,percentage (%),a) materially deprived persons,,eu,19.5
+2014,percentage (%),a) materially deprived persons,,eu,18.5
+2015,percentage (%),a) materially deprived persons,,eu,17.0
+2016,percentage (%),a) materially deprived persons,,eu,15.7
+2017,percentage (%),a) materially deprived persons,,eu,14.5
+2018,percentage (%),a) materially deprived persons,,eu,13.1
+2019,percentage (%),a) materially deprived persons,,eu,12.0
+2010,percentage (%),a) materially deprived persons,female,eu,18.4
+2011,percentage (%),a) materially deprived persons,female,eu,19.1
+2012,percentage (%),a) materially deprived persons,female,eu,20.3
+2013,percentage (%),a) materially deprived persons,female,eu,20.1
+2014,percentage (%),a) materially deprived persons,female,eu,19.1
+2015,percentage (%),a) materially deprived persons,female,eu,17.5
+2016,percentage (%),a) materially deprived persons,female,eu,16.3
+2017,percentage (%),a) materially deprived persons,female,eu,15.0
+2018,percentage (%),a) materially deprived persons,female,eu,13.6
+2019,percentage (%),a) materially deprived persons,female,eu,12.5
+2010,percentage (%),a) materially deprived persons,male,eu,17.2
+2011,percentage (%),a) materially deprived persons,male,eu,17.8
+2012,percentage (%),a) materially deprived persons,male,eu,19.1
+2013,percentage (%),a) materially deprived persons,male,eu,18.9
+2014,percentage (%),a) materially deprived persons,male,eu,17.9
+2015,percentage (%),a) materially deprived persons,male,eu,16.5
+2016,percentage (%),a) materially deprived persons,male,eu,15.2
+2017,percentage (%),a) materially deprived persons,male,eu,13.9
+2018,percentage (%),a) materially deprived persons,male,eu,12.6
+2019,percentage (%),a) materially deprived persons,male,eu,11.5
+2010,percentage (%),a) materially deprived persons,,germany,11.1
+2011,percentage (%),a) materially deprived persons,,germany,12.4
+2012,percentage (%),a) materially deprived persons,,germany,11.3
+2013,percentage (%),a) materially deprived persons,,germany,11.6
+2014,percentage (%),a) materially deprived persons,,germany,11.3
+2015,percentage (%),a) materially deprived persons,,germany,10.7
+2016,percentage (%),a) materially deprived persons,,germany,9.7
+2017,percentage (%),a) materially deprived persons,,germany,9.1
+2018,percentage (%),a) materially deprived persons,,germany,7.8
+2019,percentage (%),a) materially deprived persons,,germany,6.8
+2010,percentage (%),a) materially deprived persons,female,germany,11.5
+2011,percentage (%),a) materially deprived persons,female,germany,13.3
+2012,percentage (%),a) materially deprived persons,female,germany,12.2
+2013,percentage (%),a) materially deprived persons,female,germany,12.5
+2014,percentage (%),a) materially deprived persons,female,germany,12.1
+2015,percentage (%),a) materially deprived persons,female,germany,11.2
+2016,percentage (%),a) materially deprived persons,female,germany,10.4
+2017,percentage (%),a) materially deprived persons,female,germany,9.9
+2018,percentage (%),a) materially deprived persons,female,germany,8.1
+2019,percentage (%),a) materially deprived persons,female,germany,7.2
+2010,percentage (%),a) materially deprived persons,male,germany,10.6
+2011,percentage (%),a) materially deprived persons,male,germany,11.5
+2012,percentage (%),a) materially deprived persons,male,germany,10.5
+2013,percentage (%),a) materially deprived persons,male,germany,10.7
+2014,percentage (%),a) materially deprived persons,male,germany,10.4
+2015,percentage (%),a) materially deprived persons,male,germany,10.1
+2016,percentage (%),a) materially deprived persons,male,germany,8.9
+2017,percentage (%),a) materially deprived persons,male,germany,8.3
+2018,percentage (%),a) materially deprived persons,male,germany,7.5
+2019,percentage (%),a) materially deprived persons,male,germany,6.5
+2010,percentage (%),b) severely materially deprived persons,,eu,8.4
+2011,percentage (%),b) severely materially deprived persons,,eu,8.8
+2012,percentage (%),b) severely materially deprived persons,,eu,9.9
+2013,percentage (%),b) severely materially deprived persons,,eu,9.6
+2014,percentage (%),b) severely materially deprived persons,,eu,8.9
+2015,percentage (%),b) severely materially deprived persons,,eu,8.1
+2016,percentage (%),b) severely materially deprived persons,,eu,7.5
+2017,percentage (%),b) severely materially deprived persons,,eu,6.6
+2018,percentage (%),b) severely materially deprived persons,,eu,5.9
+2019,percentage (%),b) severely materially deprived persons,,eu,5.5
+2010,percentage (%),b) severely materially deprived persons,,germany,4.5
+2011,percentage (%),b) severely materially deprived persons,,germany,5.3
+2012,percentage (%),b) severely materially deprived persons,,germany,4.9
+2013,percentage (%),b) severely materially deprived persons,,germany,5.4
+2014,percentage (%),b) severely materially deprived persons,,germany,5.0
+2015,percentage (%),b) severely materially deprived persons,,germany,4.4
+2016,percentage (%),b) severely materially deprived persons,,germany,3.7
+2017,percentage (%),b) severely materially deprived persons,,germany,3.4
+2018,percentage (%),b) severely materially deprived persons,,germany,3.1
+2019,percentage (%),b) severely materially deprived persons,,germany,2.6

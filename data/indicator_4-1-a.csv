@@ -21,6 +21,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,a) total,a) germany (total),,10.3
 2019,percentage (%),a) time series,a) total,a) germany (total),,10.3
 2020,percentage (%),a) time series,a) total,a) germany (total),,10.1
+2021,percentage (%),a) time series,a) total,a) germany (total),,11.6
 2030,percentage (%),b) target (max),a) total,a) germany (total),,9.5
 1999,percentage (%),a) time series,female,a) germany (total),,15.6
 2000,percentage (%),a) time series,female,a) germany (total),,15.2
@@ -44,6 +45,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,female,a) germany (total),,9.1
 2019,percentage (%),a) time series,female,a) germany (total),,8.7
 2020,percentage (%),a) time series,female,a) germany (total),,8.4
+2021,percentage (%),a) time series,female,a) germany (total),,9.6
 1999,percentage (%),a) time series,male,a) germany (total),,14.2
 2000,percentage (%),a) time series,male,a) germany (total),,14.6
 2001,percentage (%),a) time series,male,a) germany (total),,12.2
@@ -66,6 +68,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,male,a) germany (total),,11.4
 2019,percentage (%),a) time series,male,a) germany (total),,11.8
 2020,percentage (%),a) time series,male,a) germany (total),,11.7
+2021,percentage (%),a) time series,male,a) germany (total),,13.5
 2005,percentage (%),a) time series,a) total,bw,code08,12.5
 2006,percentage (%),a) time series,a) total,bw,code08,12.4
 2007,percentage (%),a) time series,a) total,bw,code08,12.1
@@ -82,6 +85,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,a) total,bw,code08,9.7
 2019,percentage (%),a) time series,a) total,bw,code08,9.2
 2020,percentage (%),a) time series,a) total,bw,code08,9.1
+2021,percentage (%),a) time series,a) total,bw,code08,11.1
 2005,percentage (%),a) time series,female,bw,code08,14.3
 2006,percentage (%),a) time series,female,bw,code08,13.4
 2007,percentage (%),a) time series,female,bw,code08,11.9
@@ -98,6 +102,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,female,bw,code08,8.5
 2019,percentage (%),a) time series,female,bw,code08,7.5
 2020,percentage (%),a) time series,female,bw,code08,8.5
+2021,percentage (%),a) time series,female,bw,code08,9.4
 2005,percentage (%),a) time series,male,bw,code08,10.7
 2006,percentage (%),a) time series,male,bw,code08,11.3
 2007,percentage (%),a) time series,male,bw,code08,12.3
@@ -114,6 +119,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,male,bw,code08,10.7
 2019,percentage (%),a) time series,male,bw,code08,10.7
 2020,percentage (%),a) time series,male,bw,code08,9.6
+2021,percentage (%),a) time series,male,bw,code08,12.7
 2005,percentage (%),a) time series,a) total,by,code09,11.2
 2006,percentage (%),a) time series,a) total,by,code09,12.6
 2007,percentage (%),a) time series,a) total,by,code09,11.2
@@ -130,6 +136,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,a) total,by,code09,7.2
 2019,percentage (%),a) time series,a) total,by,code09,7.6
 2020,percentage (%),a) time series,a) total,by,code09,8.3
+2021,percentage (%),a) time series,a) total,by,code09,9.8
 2005,percentage (%),a) time series,female,by,code09,11.5
 2006,percentage (%),a) time series,female,by,code09,12.5
 2007,percentage (%),a) time series,female,by,code09,9.9
@@ -146,6 +153,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,female,by,code09,6.4
 2019,percentage (%),a) time series,female,by,code09,6.5
 2020,percentage (%),a) time series,female,by,code09,7.2
+2021,percentage (%),a) time series,female,by,code09,7.9
 2005,percentage (%),a) time series,male,by,code09,10.8
 2006,percentage (%),a) time series,male,by,code09,12.6
 2007,percentage (%),a) time series,male,by,code09,12.6
@@ -162,6 +170,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,male,by,code09,8.0
 2019,percentage (%),a) time series,male,by,code09,8.6
 2020,percentage (%),a) time series,male,by,code09,9.3
+2021,percentage (%),a) time series,male,by,code09,11.4
 2005,percentage (%),a) time series,a) total,be,code11,18.7
 2006,percentage (%),a) time series,a) total,be,code11,18.2
 2007,percentage (%),a) time series,a) total,be,code11,13.0
@@ -178,6 +187,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,a) total,be,code11,13.6
 2019,percentage (%),a) time series,a) total,be,code11,11.6
 2020,percentage (%),a) time series,a) total,be,code11,9.8
+2021,percentage (%),a) time series,a) total,be,code11,9.5
 2005,percentage (%),a) time series,female,be,code11,17.0
 2006,percentage (%),a) time series,female,be,code11,16.7
 2007,percentage (%),a) time series,female,be,code11,11.5
@@ -208,6 +218,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,male,be,code11,15.5
 2018,percentage (%),a) time series,male,be,code11,16.9
 2019,percentage (%),a) time series,male,be,code11,15.0
+2021,percentage (%),a) time series,male,be,code11,1.2
 2005,percentage (%),a) time series,a) total,bb,code12,10.2
 2006,percentage (%),a) time series,a) total,bb,code12,11.1
 2007,percentage (%),a) time series,a) total,bb,code12,9.0
@@ -223,6 +234,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,a) total,bb,code12,12.3
 2018,percentage (%),a) time series,a) total,bb,code12,11.5
 2019,percentage (%),a) time series,a) total,bb,code12,10.8
+2021,percentage (%),a) time series,a) total,bb,code12,1.3
 2005,percentage (%),a) time series,female,bb,code12,10.1
 2006,percentage (%),a) time series,female,bb,code12,9.7
 2007,percentage (%),a) time series,female,bb,code12,6.2
@@ -249,6 +261,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,male,bb,code12,15.0
 2018,percentage (%),a) time series,male,bb,code12,12.4
 2019,percentage (%),a) time series,male,bb,code12,13.6
+2021,percentage (%),a) time series,male,bb,code12,1.6
 2005,percentage (%),a) time series,a) total,hb,code04,19.1
 2006,percentage (%),a) time series,a) total,hb,code04,17.5
 2007,percentage (%),a) time series,a) total,hb,code04,15.0
@@ -264,6 +277,8 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,a) total,hb,code04,10.9
 2018,percentage (%),a) time series,a) total,hb,code04,14.6
 2019,percentage (%),a) time series,a) total,hb,code04,16.0
+2020,percentage (%),a) time series,a) total,hb,code04,15.3
+2021,percentage (%),a) time series,a) total,hb,code04,1.4
 2005,percentage (%),a) time series,female,hb,code04,19.8
 2006,percentage (%),a) time series,female,hb,code04,20.0
 2005,percentage (%),a) time series,male,hb,code04,18.2
@@ -286,6 +301,8 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,a) total,hh,code02,11.4
 2018,percentage (%),a) time series,a) total,hh,code02,11.6
 2019,percentage (%),a) time series,a) total,hh,code02,14.0
+2020,percentage (%),a) time series,a) total,hh,code02,11.3
+2021,percentage (%),a) time series,a) total,hh,code02,1.3
 2005,percentage (%),a) time series,female,hh,code02,21.9
 2006,percentage (%),a) time series,female,hh,code02,15.9
 2007,percentage (%),a) time series,female,hh,code02,14.1
@@ -332,6 +349,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,a) total,he,code06,10.7
 2019,percentage (%),a) time series,a) total,he,code06,10.3
 2020,percentage (%),a) time series,a) total,he,code06,12.3
+2021,percentage (%),a) time series,a) total,he,code06,13.6
 2005,percentage (%),a) time series,female,he,code06,12.7
 2006,percentage (%),a) time series,female,he,code06,13.8
 2007,percentage (%),a) time series,female,he,code06,13.7
@@ -348,6 +366,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,female,he,code06,8.9
 2019,percentage (%),a) time series,female,he,code06,8.7
 2020,percentage (%),a) time series,female,he,code06,9.4
+2021,percentage (%),a) time series,female,he,code06,10.6
 2005,percentage (%),a) time series,male,he,code06,13.9
 2006,percentage (%),a) time series,male,he,code06,15.6
 2007,percentage (%),a) time series,male,he,code06,10.5
@@ -364,6 +383,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,male,he,code06,12.3
 2019,percentage (%),a) time series,male,he,code06,11.8
 2020,percentage (%),a) time series,male,he,code06,14.8
+2021,percentage (%),a) time series,male,he,code06,16.3
 2005,percentage (%),a) time series,a) total,mv,code13,14.0
 2006,percentage (%),a) time series,a) total,mv,code13,12.9
 2007,percentage (%),a) time series,a) total,mv,code13,13.1
@@ -379,6 +399,8 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,a) total,mv,code13,9.8
 2018,percentage (%),a) time series,a) total,mv,code13,11.1
 2019,percentage (%),a) time series,a) total,mv,code13,11.4
+2020,percentage (%),a) time series,a) total,mv,code13,13.7
+2021,percentage (%),a) time series,a) total,mv,code13,1.4
 2005,percentage (%),a) time series,female,mv,code13,12.7
 2006,percentage (%),a) time series,female,mv,code13,12.7
 2007,percentage (%),a) time series,female,mv,code13,12.1
@@ -397,6 +419,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,male,mv,code13,14.3
 2018,percentage (%),a) time series,male,mv,code13,12.6
 2019,percentage (%),a) time series,male,mv,code13,11.8
+2021,percentage (%),a) time series,male,mv,code13,1.8
 2005,percentage (%),a) time series,a) total,ni,code03,16.0
 2006,percentage (%),a) time series,a) total,ni,code03,14.6
 2007,percentage (%),a) time series,a) total,ni,code03,14.0
@@ -413,6 +436,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,a) total,ni,code03,11.0
 2019,percentage (%),a) time series,a) total,ni,code03,11.9
 2020,percentage (%),a) time series,a) total,ni,code03,10.4
+2021,percentage (%),a) time series,a) total,ni,code03,12.2
 2005,percentage (%),a) time series,female,ni,code03,18.5
 2006,percentage (%),a) time series,female,ni,code03,14.3
 2007,percentage (%),a) time series,female,ni,code03,13.6
@@ -429,6 +453,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,female,ni,code03,9.7
 2019,percentage (%),a) time series,female,ni,code03,10.7
 2020,percentage (%),a) time series,female,ni,code03,8.7
+2021,percentage (%),a) time series,female,ni,code03,10.8
 2005,percentage (%),a) time series,male,ni,code03,13.7
 2006,percentage (%),a) time series,male,ni,code03,14.9
 2007,percentage (%),a) time series,male,ni,code03,14.3
@@ -445,6 +470,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,male,ni,code03,12.1
 2019,percentage (%),a) time series,male,ni,code03,13.1
 2020,percentage (%),a) time series,male,ni,code03,11.9
+2021,percentage (%),a) time series,male,ni,code03,13.5
 2005,percentage (%),a) time series,a) total,nw,code05,15.8
 2006,percentage (%),a) time series,a) total,nw,code05,16.7
 2007,percentage (%),a) time series,a) total,nw,code05,15.0
@@ -461,6 +487,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,a) total,nw,code05,12.0
 2019,percentage (%),a) time series,a) total,nw,code05,11.2
 2020,percentage (%),a) time series,a) total,nw,code05,10.8
+2021,percentage (%),a) time series,a) total,nw,code05,11.8
 2005,percentage (%),a) time series,female,nw,code05,15.6
 2006,percentage (%),a) time series,female,nw,code05,16.0
 2007,percentage (%),a) time series,female,nw,code05,13.9
@@ -477,6 +504,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,female,nw,code05,11.1
 2019,percentage (%),a) time series,female,nw,code05,9.4
 2020,percentage (%),a) time series,female,nw,code05,9.0
+2021,percentage (%),a) time series,female,nw,code05,9.8
 2005,percentage (%),a) time series,male,nw,code05,16.0
 2006,percentage (%),a) time series,male,nw,code05,17.4
 2007,percentage (%),a) time series,male,nw,code05,16.1
@@ -493,6 +521,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,male,nw,code05,12.7
 2019,percentage (%),a) time series,male,nw,code05,12.8
 2020,percentage (%),a) time series,male,nw,code05,12.4
+2021,percentage (%),a) time series,male,nw,code05,13.6
 2005,percentage (%),a) time series,a) total,rp,code07,16.4
 2006,percentage (%),a) time series,a) total,rp,code07,15.3
 2007,percentage (%),a) time series,a) total,rp,code07,15.5
@@ -509,6 +538,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,a) total,rp,code07,11.5
 2019,percentage (%),a) time series,a) total,rp,code07,11.6
 2020,percentage (%),a) time series,a) total,rp,code07,10.1
+2021,percentage (%),a) time series,a) total,rp,code07,13.0
 2005,percentage (%),a) time series,female,rp,code07,17.6
 2006,percentage (%),a) time series,female,rp,code07,16.5
 2007,percentage (%),a) time series,female,rp,code07,13.0
@@ -524,6 +554,8 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,female,rp,code07,10.0
 2018,percentage (%),a) time series,female,rp,code07,9.6
 2019,percentage (%),a) time series,female,rp,code07,10.5
+2020,percentage (%),a) time series,female,rp,code07,7.9
+2021,percentage (%),a) time series,female,rp,code07,10.8
 2005,percentage (%),a) time series,male,rp,code07,15.1
 2006,percentage (%),a) time series,male,rp,code07,14.2
 2007,percentage (%),a) time series,male,rp,code07,17.7
@@ -540,6 +572,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,male,rp,code07,13.2
 2019,percentage (%),a) time series,male,rp,code07,12.6
 2020,percentage (%),a) time series,male,rp,code07,12.1
+2021,percentage (%),a) time series,male,rp,code07,14.9
 2005,percentage (%),a) time series,a) total,sl,code10,20.6
 2006,percentage (%),a) time series,a) total,sl,code10,20.8
 2007,percentage (%),a) time series,a) total,sl,code10,16.3
@@ -587,6 +620,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,a) total,sn,code14,7.5
 2019,percentage (%),a) time series,a) total,sn,code14,8.3
 2020,percentage (%),a) time series,a) total,sn,code14,8.0
+2021,percentage (%),a) time series,a) total,sn,code14,9.3
 2005,percentage (%),a) time series,female,sn,code14,10.5
 2006,percentage (%),a) time series,female,sn,code14,7.8
 2007,percentage (%),a) time series,female,sn,code14,8.6
@@ -602,6 +636,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,female,sn,code14,9.8
 2018,percentage (%),a) time series,female,sn,code14,7.0
 2019,percentage (%),a) time series,female,sn,code14,7.0
+2021,percentage (%),a) time series,female,sn,code14,0.8
 2005,percentage (%),a) time series,male,sn,code14,9.1
 2006,percentage (%),a) time series,male,sn,code14,9.9
 2007,percentage (%),a) time series,male,sn,code14,8.2
@@ -617,6 +652,8 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,male,sn,code14,7.5
 2018,percentage (%),a) time series,male,sn,code14,8.0
 2019,percentage (%),a) time series,male,sn,code14,9.4
+2020,percentage (%),a) time series,male,sn,code14,8.9
+2021,percentage (%),a) time series,male,sn,code14,10.5
 2005,percentage (%),a) time series,a) total,st,code15,12.4
 2006,percentage (%),a) time series,a) total,st,code15,12.2
 2007,percentage (%),a) time series,a) total,st,code15,11.8
@@ -632,6 +669,8 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,a) total,st,code15,13.6
 2018,percentage (%),a) time series,a) total,st,code15,9.1
 2019,percentage (%),a) time series,a) total,st,code15,12.7
+2020,percentage (%),a) time series,a) total,st,code15,13.2
+2021,percentage (%),a) time series,a) total,st,code15,17.0
 2005,percentage (%),a) time series,female,st,code15,9.8
 2006,percentage (%),a) time series,female,st,code15,11.0
 2007,percentage (%),a) time series,female,st,code15,9.5
@@ -643,6 +682,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,female,st,code15,11.7
 2017,percentage (%),a) time series,female,st,code15,11.9
 2019,percentage (%),a) time series,female,st,code15,10.0
+2021,percentage (%),a) time series,female,st,code15,1.6
 2005,percentage (%),a) time series,male,st,code15,14.7
 2006,percentage (%),a) time series,male,st,code15,13.3
 2007,percentage (%),a) time series,male,st,code15,14.0
@@ -658,6 +698,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,male,st,code15,15.0
 2018,percentage (%),a) time series,male,st,code15,10.0
 2019,percentage (%),a) time series,male,st,code15,14.8
+2021,percentage (%),a) time series,male,st,code15,1.8
 2005,percentage (%),a) time series,a) total,sh,code01,15.1
 2006,percentage (%),a) time series,a) total,sh,code01,17.1
 2007,percentage (%),a) time series,a) total,sh,code01,11.8
@@ -674,6 +715,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,a) total,sh,code01,10.1
 2019,percentage (%),a) time series,a) total,sh,code01,11.0
 2020,percentage (%),a) time series,a) total,sh,code01,11.8
+2021,percentage (%),a) time series,a) total,sh,code01,12.5
 2005,percentage (%),a) time series,female,sh,code01,14.2
 2006,percentage (%),a) time series,female,sh,code01,16.1
 2007,percentage (%),a) time series,female,sh,code01,11.6
@@ -689,6 +731,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,female,sh,code01,7.6
 2018,percentage (%),a) time series,female,sh,code01,8.9
 2019,percentage (%),a) time series,female,sh,code01,8.7
+2021,percentage (%),a) time series,female,sh,code01,1.1
 2005,percentage (%),a) time series,male,sh,code01,16.1
 2006,percentage (%),a) time series,male,sh,code01,18.2
 2007,percentage (%),a) time series,male,sh,code01,11.9
@@ -704,6 +747,8 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,male,sh,code01,10.4
 2018,percentage (%),a) time series,male,sh,code01,11.2
 2019,percentage (%),a) time series,male,sh,code01,13.2
+2020,percentage (%),a) time series,male,sh,code01,14.2
+2021,percentage (%),a) time series,male,sh,code01,1.4
 2005,percentage (%),a) time series,a) total,th,code16,6.6
 2006,percentage (%),a) time series,a) total,th,code16,8.8
 2007,percentage (%),a) time series,a) total,th,code16,10.2
@@ -719,6 +764,8 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,a) total,th,code16,8.7
 2018,percentage (%),a) time series,a) total,th,code16,8.5
 2019,percentage (%),a) time series,a) total,th,code16,9.6
+2020,percentage (%),a) time series,a) total,th,code16,9.1
+2021,percentage (%),a) time series,a) total,th,code16,10.8
 2005,percentage (%),a) time series,female,th,code16,7.2
 2006,percentage (%),a) time series,female,th,code16,8.6
 2007,percentage (%),a) time series,female,th,code16,11.6
@@ -740,3 +787,4 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,male,th,code16,10.6
 2018,percentage (%),a) time series,male,th,code16,10.1
 2019,percentage (%),a) time series,male,th,code16,10.5
+2021,percentage (%),a) time series,male,th,code16,1.2

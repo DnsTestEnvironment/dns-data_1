@@ -21,6 +21,7 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,49.8
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,50.5
 2020,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,52.3
+2021,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,53.3
 2030,percentage (%),b) target (min),tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,55.0
 1999,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,a) germany (total),,31.4
 2000,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,a) germany (total),,30.9
@@ -44,6 +45,7 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,a) germany (total),,53.8
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,a) germany (total),,54.4
 2020,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,a) germany (total),,56.6
+2021,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,a) germany (total),,57.2
 1999,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,a) germany (total),,35.2
 2000,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,a) germany (total),,35.0
 2001,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,a) germany (total),,35.2
@@ -66,6 +68,7 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,a) germany (total),,46.0
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,a) germany (total),,46.8
 2020,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,a) germany (total),,48.3
+2021,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,a) germany (total),,49.6
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,36.9
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,36.9
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,37.6
@@ -856,3 +859,4 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,34.9
 2019,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,35.5
 2020,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,36.6
+2021,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,37.9

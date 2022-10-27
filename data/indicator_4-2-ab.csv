@@ -15,6 +15,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,,16.9
 2020,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,,17.1
 2021,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,,16.5
+2022,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,,16.8
 2030,percentage (%),b) target (min),0- to 2-year-olds,a) germany (total),,,35.0
 2006,percentage (%),a) time series,0- to 2-year-olds,bw,,code08,1.7
 2007,percentage (%),a) time series,0- to 2-year-olds,bw,,code08,2.2
@@ -32,6 +33,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,bw,,code08,9.9
 2020,percentage (%),a) time series,0- to 2-year-olds,bw,,code08,9.9
 2021,percentage (%),a) time series,0- to 2-year-olds,bw,,code08,9.5
+2022,percentage (%),a) time series,0- to 2-year-olds,bw,,code08,9.5
 2006,percentage (%),a) time series,0- to 2-year-olds,by,,code09,1.9
 2007,percentage (%),a) time series,0- to 2-year-olds,by,,code09,2.4
 2008,percentage (%),a) time series,0- to 2-year-olds,by,,code09,2.9
@@ -48,6 +50,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,by,,code09,10.1
 2020,percentage (%),a) time series,0- to 2-year-olds,by,,code09,10.2
 2021,percentage (%),a) time series,0- to 2-year-olds,by,,code09,9.5
+2022,percentage (%),a) time series,0- to 2-year-olds,by,,code09,9.6
 2006,percentage (%),a) time series,0- to 2-year-olds,be,,code11,19.4
 2007,percentage (%),a) time series,0- to 2-year-olds,be,,code11,20.3
 2008,percentage (%),a) time series,0- to 2-year-olds,be,,code11,21.0
@@ -64,6 +67,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,be,,code11,27.8
 2020,percentage (%),a) time series,0- to 2-year-olds,be,,code11,27.7
 2021,percentage (%),a) time series,0- to 2-year-olds,be,,code11,26.4
+2022,percentage (%),a) time series,0- to 2-year-olds,be,,code11,26.3
 2006,percentage (%),a) time series,0- to 2-year-olds,bb,,code12,22.1
 2007,percentage (%),a) time series,0- to 2-year-olds,bb,,code12,23.8
 2008,percentage (%),a) time series,0- to 2-year-olds,bb,,code12,23.8
@@ -80,6 +84,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,bb,,code12,35.6
 2020,percentage (%),a) time series,0- to 2-year-olds,bb,,code12,36.4
 2021,percentage (%),a) time series,0- to 2-year-olds,bb,,code12,34.5
+2022,percentage (%),a) time series,0- to 2-year-olds,bb,,code12,34.9
 2006,percentage (%),a) time series,0- to 2-year-olds,hb,,code04,2.7
 2007,percentage (%),a) time series,0- to 2-year-olds,hb,,code04,3.6
 2008,percentage (%),a) time series,0- to 2-year-olds,hb,,code04,4.6
@@ -96,6 +101,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,hb,,code04,13.9
 2020,percentage (%),a) time series,0- to 2-year-olds,hb,,code04,14.5
 2021,percentage (%),a) time series,0- to 2-year-olds,hb,,code04,14.3
+2022,percentage (%),a) time series,0- to 2-year-olds,hb,,code04,14.3
 2006,percentage (%),a) time series,0- to 2-year-olds,hh,,code02,8.9
 2007,percentage (%),a) time series,0- to 2-year-olds,hh,,code02,9.9
 2008,percentage (%),a) time series,0- to 2-year-olds,hh,,code02,10.4
@@ -112,6 +118,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,hh,,code02,26.2
 2020,percentage (%),a) time series,0- to 2-year-olds,hh,,code02,26.4
 2021,percentage (%),a) time series,0- to 2-year-olds,hh,,code02,25.0
+2022,percentage (%),a) time series,0- to 2-year-olds,hh,,code02,25.8
 2006,percentage (%),a) time series,0- to 2-year-olds,he,,code06,2.9
 2007,percentage (%),a) time series,0- to 2-year-olds,he,,code06,3.9
 2008,percentage (%),a) time series,0- to 2-year-olds,he,,code06,5.1
@@ -128,6 +135,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,he,,code06,17.5
 2020,percentage (%),a) time series,0- to 2-year-olds,he,,code06,17.9
 2021,percentage (%),a) time series,0- to 2-year-olds,he,,code06,17.2
+2022,percentage (%),a) time series,0- to 2-year-olds,he,,code06,17.9
 2006,percentage (%),a) time series,0- to 2-year-olds,mv,,code13,18.1
 2007,percentage (%),a) time series,0- to 2-year-olds,mv,,code13,18.7
 2008,percentage (%),a) time series,0- to 2-year-olds,mv,,code13,19.7
@@ -144,6 +152,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,mv,,code13,37.4
 2020,percentage (%),a) time series,0- to 2-year-olds,mv,,code13,39.4
 2021,percentage (%),a) time series,0- to 2-year-olds,mv,,code13,39.7
+2022,percentage (%),a) time series,0- to 2-year-olds,mv,,code13,41.5
 2006,percentage (%),a) time series,0- to 2-year-olds,ni,,code03,1.3
 2007,percentage (%),a) time series,0- to 2-year-olds,ni,,code03,1.6
 2008,percentage (%),a) time series,0- to 2-year-olds,ni,,code03,2.1
@@ -160,6 +169,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,ni,,code03,11.7
 2020,percentage (%),a) time series,0- to 2-year-olds,ni,,code03,12.1
 2021,percentage (%),a) time series,0- to 2-year-olds,ni,,code03,11.8
+2022,percentage (%),a) time series,0- to 2-year-olds,ni,,code03,12.3
 2006,percentage (%),a) time series,0- to 2-year-olds,nw,,code05,2.4
 2007,percentage (%),a) time series,0- to 2-year-olds,nw,,code05,2.7
 2008,percentage (%),a) time series,0- to 2-year-olds,nw,,code05,3.6
@@ -176,6 +186,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,nw,,code05,10.3
 2020,percentage (%),a) time series,0- to 2-year-olds,nw,,code05,10.6
 2021,percentage (%),a) time series,0- to 2-year-olds,nw,,code05,10.7
+2022,percentage (%),a) time series,0- to 2-year-olds,nw,,code05,10.8
 2006,percentage (%),a) time series,0- to 2-year-olds,rp,,code07,2.6
 2007,percentage (%),a) time series,0- to 2-year-olds,rp,,code07,3.2
 2008,percentage (%),a) time series,0- to 2-year-olds,rp,,code07,4.0
@@ -192,6 +203,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,rp,,code07,16.2
 2020,percentage (%),a) time series,0- to 2-year-olds,rp,,code07,16.3
 2021,percentage (%),a) time series,0- to 2-year-olds,rp,,code07,15.5
+2022,percentage (%),a) time series,0- to 2-year-olds,rp,,code07,17.2
 2006,percentage (%),a) time series,0- to 2-year-olds,sl,,code10,3.8
 2007,percentage (%),a) time series,0- to 2-year-olds,sl,,code10,4.5
 2008,percentage (%),a) time series,0- to 2-year-olds,sl,,code10,5.8
@@ -208,6 +220,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,sl,,code10,23.1
 2020,percentage (%),a) time series,0- to 2-year-olds,sl,,code10,23.3
 2021,percentage (%),a) time series,0- to 2-year-olds,sl,,code10,23.5
+2022,percentage (%),a) time series,0- to 2-year-olds,sl,,code10,25.5
 2006,percentage (%),a) time series,0- to 2-year-olds,sn,,code14,20.1
 2007,percentage (%),a) time series,0- to 2-year-olds,sn,,code14,21.2
 2008,percentage (%),a) time series,0- to 2-year-olds,sn,,code14,22.6
@@ -224,6 +237,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,sn,,code14,38.7
 2020,percentage (%),a) time series,0- to 2-year-olds,sn,,code14,39.4
 2021,percentage (%),a) time series,0- to 2-year-olds,sn,,code14,38.6
+2022,percentage (%),a) time series,0- to 2-year-olds,sn,,code14,40.1
 2006,percentage (%),a) time series,0- to 2-year-olds,st,,code15,26.4
 2007,percentage (%),a) time series,0- to 2-year-olds,st,,code15,28.1
 2008,percentage (%),a) time series,0- to 2-year-olds,st,,code15,28.5
@@ -240,6 +254,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,st,,code15,46.9
 2020,percentage (%),a) time series,0- to 2-year-olds,st,,code15,47.3
 2021,percentage (%),a) time series,0- to 2-year-olds,st,,code15,45.0
+2022,percentage (%),a) time series,0- to 2-year-olds,st,,code15,46.9
 2006,percentage (%),a) time series,0- to 2-year-olds,sh,,code01,1.7
 2007,percentage (%),a) time series,0- to 2-year-olds,sh,,code01,1.9
 2008,percentage (%),a) time series,0- to 2-year-olds,sh,,code01,2.4
@@ -256,6 +271,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,sh,,code01,13.2
 2020,percentage (%),a) time series,0- to 2-year-olds,sh,,code01,13.6
 2021,percentage (%),a) time series,0- to 2-year-olds,sh,,code01,14.2
+2022,percentage (%),a) time series,0- to 2-year-olds,sh,,code01,14.9
 2006,percentage (%),a) time series,0- to 2-year-olds,th,,code16,30.4
 2007,percentage (%),a) time series,0- to 2-year-olds,th,,code16,30.1
 2008,percentage (%),a) time series,0- to 2-year-olds,th,,code16,31.3
@@ -272,6 +288,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,0- to 2-year-olds,th,,code16,49.9
 2020,percentage (%),a) time series,0- to 2-year-olds,th,,code16,50.3
 2021,percentage (%),a) time series,0- to 2-year-olds,th,,code16,49.2
+2022,percentage (%),a) time series,0- to 2-year-olds,th,,code16,50.7
 2009,percentage (%),a) time series,0- to 2-year-olds,,"stuttgart, stadt",code08111,16.6
 2010,percentage (%),a) time series,0- to 2-year-olds,,"stuttgart, stadt",code08111,19.6
 2011,percentage (%),a) time series,0- to 2-year-olds,,"stuttgart, stadt",code08111,20.0
@@ -5075,7 +5092,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2010,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,,32.1
 2011,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,,34.7
 2012,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,,36.8
-2013,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,,39.1
+2013,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,,39.0
 2014,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,,41.4
 2015,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,,44.1
 2016,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,,44.5
@@ -5084,6 +5101,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,,46.9
 2020,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,,47.6
 2021,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,,46.9
+2022,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,,47.0
 2020,percentage (%),b) target (min),3- to 5-year-olds,a) germany (total),,,60.0
 2030,percentage (%),b) target (min),3- to 5-year-olds,a) germany (total),,,70.0
 2006,percentage (%),a) time series,3- to 5-year-olds,bw,,code08,6.8
@@ -5092,7 +5110,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2009,percentage (%),a) time series,3- to 5-year-olds,bw,,code08,11.4
 2010,percentage (%),a) time series,3- to 5-year-olds,bw,,code08,12.9
 2011,percentage (%),a) time series,3- to 5-year-olds,bw,,code08,14.7
-2012,percentage (%),a) time series,3- to 5-year-olds,bw,,code08,16.1
+2012,percentage (%),a) time series,3- to 5-year-olds,bw,,code08,16.0
 2013,percentage (%),a) time series,3- to 5-year-olds,bw,,code08,17.6
 2014,percentage (%),a) time series,3- to 5-year-olds,bw,,code08,19.7
 2015,percentage (%),a) time series,3- to 5-year-olds,bw,,code08,21.4
@@ -5102,15 +5120,16 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,3- to 5-year-olds,bw,,code08,25.1
 2020,percentage (%),a) time series,3- to 5-year-olds,bw,,code08,25.2
 2021,percentage (%),a) time series,3- to 5-year-olds,bw,,code08,24.3
+2022,percentage (%),a) time series,3- to 5-year-olds,bw,,code08,24.1
 2006,percentage (%),a) time series,3- to 5-year-olds,by,,code09,16.8
 2007,percentage (%),a) time series,3- to 5-year-olds,by,,code09,18.9
 2008,percentage (%),a) time series,3- to 5-year-olds,by,,code09,20.1
 2009,percentage (%),a) time series,3- to 5-year-olds,by,,code09,21.4
 2010,percentage (%),a) time series,3- to 5-year-olds,by,,code09,22.8
 2011,percentage (%),a) time series,3- to 5-year-olds,by,,code09,24.9
-2012,percentage (%),a) time series,3- to 5-year-olds,by,,code09,26.9
-2013,percentage (%),a) time series,3- to 5-year-olds,by,,code09,29.1
-2014,percentage (%),a) time series,3- to 5-year-olds,by,,code09,31.5
+2012,percentage (%),a) time series,3- to 5-year-olds,by,,code09,27.1
+2013,percentage (%),a) time series,3- to 5-year-olds,by,,code09,29.4
+2014,percentage (%),a) time series,3- to 5-year-olds,by,,code09,31.9
 2015,percentage (%),a) time series,3- to 5-year-olds,by,,code09,33.9
 2016,percentage (%),a) time series,3- to 5-year-olds,by,,code09,34.6
 2017,percentage (%),a) time series,3- to 5-year-olds,by,,code09,35.1
@@ -5118,15 +5137,16 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,3- to 5-year-olds,by,,code09,36.0
 2020,percentage (%),a) time series,3- to 5-year-olds,by,,code09,37.3
 2021,percentage (%),a) time series,3- to 5-year-olds,by,,code09,35.6
+2022,percentage (%),a) time series,3- to 5-year-olds,by,,code09,34.9
 2006,percentage (%),a) time series,3- to 5-year-olds,be,,code11,50.3
 2007,percentage (%),a) time series,3- to 5-year-olds,be,,code11,51.9
 2008,percentage (%),a) time series,3- to 5-year-olds,be,,code11,53.0
 2009,percentage (%),a) time series,3- to 5-year-olds,be,,code11,54.0
 2010,percentage (%),a) time series,3- to 5-year-olds,be,,code11,54.5
 2011,percentage (%),a) time series,3- to 5-year-olds,be,,code11,56.4
-2012,percentage (%),a) time series,3- to 5-year-olds,be,,code11,58.1
-2013,percentage (%),a) time series,3- to 5-year-olds,be,,code11,59.5
-2014,percentage (%),a) time series,3- to 5-year-olds,be,,code11,60.2
+2012,percentage (%),a) time series,3- to 5-year-olds,be,,code11,58.6
+2013,percentage (%),a) time series,3- to 5-year-olds,be,,code11,60.1
+2014,percentage (%),a) time series,3- to 5-year-olds,be,,code11,60.9
 2015,percentage (%),a) time series,3- to 5-year-olds,be,,code11,61.1
 2016,percentage (%),a) time series,3- to 5-year-olds,be,,code11,60.0
 2017,percentage (%),a) time series,3- to 5-year-olds,be,,code11,59.4
@@ -5134,15 +5154,16 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,3- to 5-year-olds,be,,code11,61.0
 2020,percentage (%),a) time series,3- to 5-year-olds,be,,code11,60.7
 2021,percentage (%),a) time series,3- to 5-year-olds,be,,code11,58.5
+2022,percentage (%),a) time series,3- to 5-year-olds,be,,code11,56.6
 2006,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,43.8
 2007,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,46.8
 2008,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,49.3
 2009,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,52.1
 2010,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,54.3
 2011,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,56.9
-2012,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,58.6
-2013,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,60.4
-2014,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,60.9
+2012,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,58.8
+2013,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,60.6
+2014,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,61.3
 2015,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,63.0
 2016,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,62.2
 2017,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,62.1
@@ -5150,63 +5171,67 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,64.1
 2020,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,65.2
 2021,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,63.1
+2022,percentage (%),a) time series,3- to 5-year-olds,bb,,code12,63.1
 2006,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,18.4
 2007,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,19.1
 2008,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,19.8
 2009,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,21.1
 2010,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,22.2
 2011,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,26.2
-2012,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,26.4
-2013,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,30.0
-2014,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,32.3
+2012,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,26.1
+2013,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,29.5
+2014,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,32.1
 2015,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,35.7
 2016,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,36.9
-2017,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,38.0
-2018,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,38.5
-2019,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,38.5
-2020,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,40.1
-2021,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,42.2
+2017,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,37.9
+2018,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,38.3
+2019,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,38.3
+2020,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,39.8
+2021,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,41.7
+2022,percentage (%),a) time series,3- to 5-year-olds,hb,,code04,41.0
 2006,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,24.7
 2007,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,27.0
 2008,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,28.5
 2009,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,31.4
 2010,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,33.6
 2011,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,36.3
-2012,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,37.9
-2013,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,41.0
-2014,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,42.4
+2012,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,38.4
+2013,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,41.5
+2014,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,42.9
 2015,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,45.7
-2016,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,45.3
+2016,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,45.2
 2017,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,48.3
-2018,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,47.3
-2019,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,49.8
+2018,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,47.2
+2019,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,49.7
 2020,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,51.7
-2021,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,49.0
+2021,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,48.9
+2022,percentage (%),a) time series,3- to 5-year-olds,hh,,code02,49.4
 2006,percentage (%),a) time series,3- to 5-year-olds,he,,code06,22.1
 2007,percentage (%),a) time series,3- to 5-year-olds,he,,code06,25.5
 2008,percentage (%),a) time series,3- to 5-year-olds,he,,code06,29.2
 2009,percentage (%),a) time series,3- to 5-year-olds,he,,code06,32.4
 2010,percentage (%),a) time series,3- to 5-year-olds,he,,code06,36.3
 2011,percentage (%),a) time series,3- to 5-year-olds,he,,code06,39.0
-2012,percentage (%),a) time series,3- to 5-year-olds,he,,code06,41.3
-2013,percentage (%),a) time series,3- to 5-year-olds,he,,code06,44.2
+2012,percentage (%),a) time series,3- to 5-year-olds,he,,code06,41.2
+2013,percentage (%),a) time series,3- to 5-year-olds,he,,code06,44.1
 2014,percentage (%),a) time series,3- to 5-year-olds,he,,code06,46.7
 2015,percentage (%),a) time series,3- to 5-year-olds,he,,code06,48.0
-2016,percentage (%),a) time series,3- to 5-year-olds,he,,code06,49.6
-2017,percentage (%),a) time series,3- to 5-year-olds,he,,code06,50.5
-2018,percentage (%),a) time series,3- to 5-year-olds,he,,code06,51.3
-2019,percentage (%),a) time series,3- to 5-year-olds,he,,code06,53.5
+2016,percentage (%),a) time series,3- to 5-year-olds,he,,code06,49.5
+2017,percentage (%),a) time series,3- to 5-year-olds,he,,code06,50.4
+2018,percentage (%),a) time series,3- to 5-year-olds,he,,code06,51.2
+2019,percentage (%),a) time series,3- to 5-year-olds,he,,code06,53.4
 2020,percentage (%),a) time series,3- to 5-year-olds,he,,code06,54.3
 2021,percentage (%),a) time series,3- to 5-year-olds,he,,code06,52.2
+2022,percentage (%),a) time series,3- to 5-year-olds,he,,code06,53.2
 2006,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,46.1
 2007,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,48.5
 2008,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,51.6
 2009,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,54.8
 2010,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,55.9
 2011,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,58.0
-2012,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,61.6
-2013,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,63.8
-2014,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,64.9
+2012,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,61.9
+2013,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,64.1
+2014,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,65.3
 2015,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,66.5
 2016,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,66.6
 2017,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,67.2
@@ -5214,47 +5239,50 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,70.8
 2020,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,73.0
 2021,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,72.5
+2022,percentage (%),a) time series,3- to 5-year-olds,mv,,code13,73.5
 2006,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,7.9
 2007,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,9.5
 2008,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,10.7
 2009,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,12.5
 2010,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,14.3
 2011,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,16.6
-2012,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,18.8
-2013,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,21.4
-2014,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,24.0
-2015,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,26.6
+2012,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,18.9
+2013,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,21.5
+2014,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,24.2
+2015,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,26.5
 2016,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,28.8
-2017,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,30.1
+2017,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,30.0
 2018,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,31.6
 2019,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,34.9
-2020,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,37.3
+2020,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,37.2
 2021,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,38.0
+2022,percentage (%),a) time series,3- to 5-year-olds,ni,,code03,38.4
 2006,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,19.0
 2007,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,21.7
 2008,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,26.7
 2009,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,30.5
 2010,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,33.3
 2011,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,35.7
-2012,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,37.8
-2013,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,39.7
-2014,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,41.4
+2012,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,38.0
+2013,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,40.0
+2014,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,41.8
 2015,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,44.1
-2016,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,44.9
-2017,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,45.4
+2016,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,44.8
+2017,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,45.3
 2018,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,46.0
 2019,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,46.6
 2020,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,46.9
 2021,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,48.2
+2022,percentage (%),a) time series,3- to 5-year-olds,nw,,code05,48.8
 2006,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,18.1
 2007,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,20.2
 2008,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,23.3
 2009,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,28.4
 2010,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,33.6
 2011,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,38.6
-2012,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,44.7
-2013,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,46.6
-2014,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,47.9
+2012,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,44.6
+2013,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,46.4
+2014,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,47.7
 2015,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,49.6
 2016,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,50.8
 2017,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,52.2
@@ -5262,15 +5290,16 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,53.4
 2020,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,53.2
 2021,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,52.5
+2022,percentage (%),a) time series,3- to 5-year-olds,rp,,code07,53.1
 2006,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,14.8
 2007,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,16.1
 2008,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,18.9
 2009,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,22.6
 2010,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,25.7
 2011,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,30.0
-2012,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,34.8
-2013,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,39.1
-2014,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,42.5
+2012,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,34.9
+2013,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,39.2
+2014,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,42.7
 2015,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,46.2
 2016,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,48.6
 2017,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,49.3
@@ -5278,15 +5307,16 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,54.5
 2020,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,56.4
 2021,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,56.0
+2022,percentage (%),a) time series,3- to 5-year-olds,sl,,code10,58.0
 2006,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,59.5
 2007,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,62.2
 2008,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,65.9
 2009,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,70.2
 2010,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,74.8
 2011,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,75.6
-2012,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,76.2
-2013,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,77.9
-2014,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,79.0
+2012,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,76.7
+2013,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,78.4
+2014,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,79.6
 2015,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,81.0
 2016,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,80.9
 2017,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,81.8
@@ -5294,15 +5324,16 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,82.3
 2020,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,82.9
 2021,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,81.5
+2022,percentage (%),a) time series,3- to 5-year-olds,sn,,code14,82.4
 2006,percentage (%),a) time series,3- to 5-year-olds,st,,code15,50.6
 2007,percentage (%),a) time series,3- to 5-year-olds,st,,code15,53.1
 2008,percentage (%),a) time series,3- to 5-year-olds,st,,code15,54.5
 2009,percentage (%),a) time series,3- to 5-year-olds,st,,code15,56.4
 2010,percentage (%),a) time series,3- to 5-year-olds,st,,code15,58.0
 2011,percentage (%),a) time series,3- to 5-year-olds,st,,code15,61.2
-2012,percentage (%),a) time series,3- to 5-year-olds,st,,code15,63.4
-2013,percentage (%),a) time series,3- to 5-year-olds,st,,code15,65.0
-2014,percentage (%),a) time series,3- to 5-year-olds,st,,code15,80.2
+2012,percentage (%),a) time series,3- to 5-year-olds,st,,code15,64.0
+2013,percentage (%),a) time series,3- to 5-year-olds,st,,code15,65.7
+2014,percentage (%),a) time series,3- to 5-year-olds,st,,code15,81.2
 2015,percentage (%),a) time series,3- to 5-year-olds,st,,code15,82.9
 2016,percentage (%),a) time series,3- to 5-year-olds,st,,code15,81.4
 2017,percentage (%),a) time series,3- to 5-year-olds,st,,code15,80.7
@@ -5310,31 +5341,33 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,3- to 5-year-olds,st,,code15,81.4
 2020,percentage (%),a) time series,3- to 5-year-olds,st,,code15,82.1
 2021,percentage (%),a) time series,3- to 5-year-olds,st,,code15,81.0
+2022,percentage (%),a) time series,3- to 5-year-olds,st,,code15,80.8
 2006,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,10.0
 2007,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,11.1
 2008,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,12.6
 2009,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,14.2
 2010,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,16.0
 2011,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,19.1
-2012,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,21.3
-2013,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,24.1
-2014,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,25.7
+2012,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,21.5
+2013,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,24.4
+2014,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,26.0
 2015,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,29.6
-2016,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,31.5
-2017,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,34.2
+2016,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,31.4
+2017,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,34.1
 2018,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,35.0
-2019,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,36.7
+2019,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,36.6
 2020,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,37.2
 2021,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,39.0
+2022,percentage (%),a) time series,3- to 5-year-olds,sh,,code01,40.2
 2006,percentage (%),a) time series,3- to 5-year-olds,th,,code16,84.0
 2007,percentage (%),a) time series,3- to 5-year-olds,th,,code16,84.5
 2008,percentage (%),a) time series,3- to 5-year-olds,th,,code16,84.9
 2009,percentage (%),a) time series,3- to 5-year-olds,th,,code16,86.1
 2010,percentage (%),a) time series,3- to 5-year-olds,th,,code16,87.1
 2011,percentage (%),a) time series,3- to 5-year-olds,th,,code16,89.4
-2012,percentage (%),a) time series,3- to 5-year-olds,th,,code16,87.4
-2013,percentage (%),a) time series,3- to 5-year-olds,th,,code16,88.1
-2014,percentage (%),a) time series,3- to 5-year-olds,th,,code16,91.0
+2012,percentage (%),a) time series,3- to 5-year-olds,th,,code16,87.6
+2013,percentage (%),a) time series,3- to 5-year-olds,th,,code16,88.4
+2014,percentage (%),a) time series,3- to 5-year-olds,th,,code16,91.4
 2015,percentage (%),a) time series,3- to 5-year-olds,th,,code16,91.4
 2016,percentage (%),a) time series,3- to 5-year-olds,th,,code16,90.8
 2017,percentage (%),a) time series,3- to 5-year-olds,th,,code16,91.8
@@ -5342,6 +5375,7 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2019,percentage (%),a) time series,3- to 5-year-olds,th,,code16,92.3
 2020,percentage (%),a) time series,3- to 5-year-olds,th,,code16,92.2
 2021,percentage (%),a) time series,3- to 5-year-olds,th,,code16,92.2
+2022,percentage (%),a) time series,3- to 5-year-olds,th,,code16,91.6
 2009,percentage (%),a) time series,3- to 5-year-olds,,"stuttgart, stadt",code08111,37.6
 2010,percentage (%),a) time series,3- to 5-year-olds,,"stuttgart, stadt",code08111,38.7
 2011,percentage (%),a) time series,3- to 5-year-olds,,"stuttgart, stadt",code08111,41.0
