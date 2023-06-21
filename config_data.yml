@@ -128,11 +128,16 @@ datapackage:
 
 map_layers:
   - geojson_file: laender.geojson
+    min_zoom: 0
+    max_zoom: 7
+    staticBorders: true
     name_property: GEN
     id_property: AGS
     output_subfolder: laender
     filename_prefix: indicator_
   - geojson_file: kreise.geojson
+    min_zoom: 8
+    max_zoom: 11
     name_property: GEN
     id_property: ARS
     output_subfolder: kreise
