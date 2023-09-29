@@ -82,18 +82,18 @@ Year,Units,time series,area,federal state,GeoCode,Value
 2007,gini coefficient,gini coefficient of wealth,germany,,,
 2008,gini coefficient,gini coefficient of wealth,germany,,,
 2009,gini coefficient,gini coefficient of wealth,germany,,,
-2010,gini coefficient,gini coefficient of wealth,germany,,,0.76
+2010,gini coefficient,gini coefficient of wealth,germany,,,0.758
 2011,gini coefficient,gini coefficient of wealth,germany,,,
 2012,gini coefficient,gini coefficient of wealth,germany,,,
 2013,gini coefficient,gini coefficient of wealth,germany,,,
-2014,gini coefficient,gini coefficient of wealth,germany,,,0.76
+2014,gini coefficient,gini coefficient of wealth,germany,,,0.762
 2015,gini coefficient,gini coefficient of wealth,germany,,,
 2016,gini coefficient,gini coefficient of wealth,germany,,,
-2017,gini coefficient,gini coefficient of wealth,germany,,,0.74
+2017,gini coefficient,gini coefficient of wealth,germany,,,0.739
 2018,gini coefficient,gini coefficient of wealth,germany,,,
 2019,gini coefficient,gini coefficient of wealth,germany,,,
 2020,gini coefficient,gini coefficient of wealth,germany,,,
-2021,gini coefficient,gini coefficient of wealth,germany,,,0.73
+2021,gini coefficient,gini coefficient of wealth,germany,,,0.727
 2022,gini coefficient,gini coefficient of wealth,germany,,,
 2007,gini coefficient,gini coefficient of wealth,eurozone,,,
 2008,gini coefficient,gini coefficient of wealth,eurozone,,,
@@ -109,7 +109,7 @@ Year,Units,time series,area,federal state,GeoCode,Value
 2018,gini coefficient,gini coefficient of wealth,eurozone,,,
 2019,gini coefficient,gini coefficient of wealth,eurozone,,,
 2020,gini coefficient,gini coefficient of wealth,eurozone,,,
-2021,gini coefficient,gini coefficient of wealth,eurozone,,,
+2021,gini coefficient,gini coefficient of wealth,eurozone,,,0.694
 2022,gini coefficient,gini coefficient of wealth,eurozone,,,
 2020,gini coefficient,gini coefficient of equivalised disposable income before social transfers,,baden-wuerttemberg,code08,0.29
 2021,gini coefficient,gini coefficient of equivalised disposable income before social transfers,,baden-wuerttemberg,code08,0.29
