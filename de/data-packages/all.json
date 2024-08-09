@@ -774,6 +774,7 @@
             "constraints": {
               "enum": [
                 "2000 = 100",
+                "Millionen Tonnen",
                 ""
               ]
             },
@@ -785,12 +786,53 @@
             "constraints": {
               "enum": [
                 "Gesamtrohstoffproduktivität",
-                "Rohstoffeinsatz für Konsum, Investitionen und Exporte",
                 "Wert von Konsum, Investitionen und Exporten (preisbereinigt)",
+                "Rohstoffeinsatz für Konsum, Investitionen und Exporte",
                 ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "Bereich",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Exporte",
+                "Konsum und Investitionen",
+                ""
+              ]
+            },
+            "title": "Bereich"
+          },
+          {
+            "name": "Rohstoffkategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fossile Energieträger",
+                "Erze",
+                "Steine, Erden und Industrieminerale",
+                "Biotische Rohstoffe",
+                ""
+              ]
+            },
+            "title": "Rohstoffkategorie"
+          },
+          {
+            "name": "Kategorie der letzten Verwendung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Konsum der privaten Haushalte",
+                "Konsum des Staates und der privaten Organisationen ohne Erwerbszweck",
+                "Investitionen in Ausrüstungen und sonstige Anlagen",
+                "Investitionen in Bauten",
+                "Vorratsveränderungen und Nettozuwachs an Wertsachen",
+                ""
+              ]
+            },
+            "title": "Kategorie der letzten Verwendung"
           },
           {
             "name": "Value",
