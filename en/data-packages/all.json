@@ -760,7 +760,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "euc_kr",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -779,6 +779,18 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Indikator: Gesamtrohstoffproduktivität",
+                "Zusätzliche Informationen: Rohstoffeinsatz für Konsum, Investitionen und Exporte",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "time series",

@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "euc_kr",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -21,6 +21,17 @@
               "enum": [
                 "2000 = 100",
                 "Millionen Tonnen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Indikator: Gesamtrohstoffproduktivität",
+                "Zusätzliche Informationen: Rohstoffeinsatz für Konsum, Investitionen und Exporte",
                 ""
               ]
             }
