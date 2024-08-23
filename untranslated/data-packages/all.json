@@ -744,7 +744,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2000 = 100",
+                "2010 = 100",
                 "Millionen Tonnen",
                 ""
               ]
@@ -756,7 +756,7 @@
             "constraints": {
               "enum": [
                 "Indikator: Gesamtrohstoffproduktivität",
-                "Zusätzliche Informationen: Rohstoffeinsatz für Konsum, Investitionen und Exporte",
+                "Zusätzliche Informationen: Rohstoffeinsatz",
                 ""
               ]
             }
