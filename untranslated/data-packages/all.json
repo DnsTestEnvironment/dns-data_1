@@ -774,7 +774,7 @@
             }
           },
           {
-            "name": "Bereich",
+            "name": "Kategorie der letzten Verwendung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -793,20 +793,6 @@
                 "Erze",
                 "Steine, Erden und Industrieminerale",
                 "Biotische Rohstoffe",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Kategorie der letzten Verwendung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Konsum der privaten Haushalte",
-                "Konsum des Staates und der privaten Organisationen ohne Erwerbszweck",
-                "Investitionen in Ausrüstungen und sonstige Anlagen",
-                "Investitionen in Bauten",
-                "Vorratsveränderungen und Nettozuwachs an Wertsachen",
                 ""
               ]
             }
